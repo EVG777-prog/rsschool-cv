@@ -33,3 +33,13 @@ Codewars: https://www.codewars.com/users/EVG777-prog
 Example of code:
 Task Codewars: https://www.codewars.com/kata/5b7176768adeae9bc9000056
 
+function indexEqualsValue(a) {
+    let min = 0;
+    let max = a.length - 1;
+    while (min < max) {
+        let i = Math.floor((min + max) / 2);
+        if (i <= a[i]) max = i;
+        else min = i + 1;
+    }
+    return a[max] === max ? max : -1;
+}
