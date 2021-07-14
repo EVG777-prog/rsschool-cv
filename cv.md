@@ -43,3 +43,4 @@ function indexEqualsValue(a) {
     }
     return a[max] === max ? max : -1;
 }
+ 
