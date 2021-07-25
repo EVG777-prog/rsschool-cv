@@ -1,0 +1,36 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    background-color: bisque;
+    padding: 20px;
+    font: 1.2em "Fira Sans", sans-serif;
+}
+
+header {
+    display: flex;
+}
+
+#avatar {
+    border: 5px;
+    border-color: blue;
+    margin: 25px;
+}
+
+hr {
+    border: 2px solid rgb(255, 0, 0);
+}
+
+.contact {
+    font: 1.2em "Fira Sans", sans-serif;
+}
+
+
+/* p {
+    font: 1.2em "Fira Sans", sans-serif;
+} */
+
+
+/* h3 {
+    font: bold;
+} */
