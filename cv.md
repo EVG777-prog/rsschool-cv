@@ -1,5 +1,6 @@
 # Zaiec Ievgen
 **E-mail:** ezaec@gmail.com
+**Discord:** Evgeniy (@EVG777-prog)
 **Phone number:** +380504763340
 **Address:** Ukraine, Kiyv
 
