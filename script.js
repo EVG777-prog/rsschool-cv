@@ -81,6 +81,7 @@ if (menuLinks.length > 0) {
 }
 
 console.log(`
+Pull request - https://github.com/EVG777-prog/rsschool-cv/pull/5
 Самопроверка: 150 баллов
 - вёрстка валидная +10
 - вёрстка семантическая +20
