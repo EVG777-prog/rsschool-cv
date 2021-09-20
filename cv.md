@@ -34,6 +34,7 @@ Codewars: https://www.codewars.com/users/EVG777-prog
 Example of code:
 Task Codewars: https://www.codewars.com/kata/5b7176768adeae9bc9000056
 
+``` JavaScript
 function indexEqualsValue(a) {
     let min = 0;
     let max = a.length - 1;
@@ -44,3 +45,4 @@ function indexEqualsValue(a) {
     }
     return a[max] === max ? max : -1;
 }
+```
